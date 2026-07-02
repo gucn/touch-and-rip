@@ -1,0 +1,3 @@
+DB=$HOME/Desktop/iPod_dump/MediaLibrary.sqlitedb
+ROOT=$HOME/Desktop/iPod_dump
+OUTPUT=$HOME/Desktop/iPod_music
